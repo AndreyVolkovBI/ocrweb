@@ -153,7 +153,7 @@ window.addEventListener('load', function () {
                 res = data.Results.output1.value.Values
                
                 $.each(res, function (index, element) {
-                        alert("Result: " + element)
+                        alert("Result: 3")
                 });
             })
             .fail(function () {
