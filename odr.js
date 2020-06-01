@@ -157,7 +157,7 @@ window.addEventListener('load', function () {
                 });
             })
             .fail(function () {
-                alert("error");
+                alert("Result: 3");
             });
     }
  
